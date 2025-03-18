@@ -1,0 +1,151 @@
+transaction_id,phone,store,items,person_id
+1000,233-159-4158,Trader Tales,"['Krafty Cheddar (x1)', 'Popsi (x1)', 'Oreoz (x2)']",0854
+1001,725-427-2794,PetPals Mart,['Colgatex (x1)'],0341
+1002,659-190-9378,Trader Tales,"['Colgatex (x1)', 'Dovee (x1)', 'Flixnet (x1)']",0015
+1003,334-436-6254,Urban Outfitters Loft,"['Krafty Cheddar (x2)', 'RedCow (x1)', 'Dovee (x2)']",0371
+1004,615-102-4849,PetPals Mart,"['Popsi (x1)', 'Flixnet (x1)']",0480
+1005,294-365-8364,Urban Outfitters Loft,"['Popsi (x1)', 'KittyKat (x2)']",0850
+1006,634-813-9351,BestChoice Buy,"['Flixnet (x1)', 'Colgatex (x2)']",0564
+1007,273-616-5739,SparkMart,"['KittyKat (x2)', 'RedCow (x1)', 'Dovee (x3)']",0297
+1008,839-124-9420,SparkMart,"['Colgatex (x1)', 'RedCow (x1)', 'KittyKat (x1)']",0305
+1009,645-829-7495,Trader Tales,['Krafty Cheddar (x1)'],0169
+1010,444-295-8051,Trader Tales,"['Flixnet (x1)', 'RedCow (x1)', 'Popsi (x1)']",0752
+1011,520-305-7264,Trader Tales,"['Colgatex (x1)', 'Popsi (x1)', 'Flixnet (x1)']",0089
+1012,891-887-3513,PetPals Mart,"['Colgatex (x1)', 'Flixnet (x3)']",0202
+1013,114-507-5478,BestChoice Buy,"['RedCow (x1)', 'Colgatex (x1)', 'Dovee (x2)']",0526
+1014,558-608-9550,BestChoice Buy,['Krafty Cheddar (x1)'],0370
+1015,372-218-6551,BestChoice Buy,"['Colgatex (x1)', 'Krafty Cheddar (x2)', 'Popsi (x1)']",0132
+1016,441-847-1955,Urban Outfitters Loft,"['Popsi (x3)', 'Dovee (x3)', 'Flixnet (x1)']",0109
+1017,924-146-4189,PetPals Mart,['Dovee (x1)'],0054
+1018,512-600-6692,Urban Outfitters Loft,['Dovee (x2)'],0986
+1019,362-464-9875,Trader Tales,"['Popsi (x1)', 'Colgatex (x2)']",0894
+1020,101-165-2021,SparkMart,"['Flixnet (x1)', 'Popsi (x2)']",0742
+1021,563-494-9026,Urban Outfitters Loft,['Colgatex (x1)'],0328
+1022,918-588-9531,Trader Tales,"['RedCow (x2)', 'Krafty Cheddar (x1)']",0368
+1023,315-892-7127,PetPals Mart,"['KittyKat (x3)', 'Popsi (x2)', 'Dovee (x1)']",0735
+1024,640-390-3390,Trader Tales,"['Flixnet (x2)', 'RedCow (x3)']",0944
+1025,626-458-8110,Targeted Treasures,['RedCow (x2)'],0693
+1026,993-541-7464,BestChoice Buy,"['Colgatex (x2)', 'RedCow (x1)']",0533
+1027,116-866-3838,Urban Outfitters Loft,"['Popsi (x2)', 'Dovee (x2)', 'RedCow (x2)']",0602
+1028,776-243-3725,Trader Tales,['Dovee (x1)'],0097
+1029,553-407-1049,PetPals Mart,"['Popsi (x1)', 'RedCow (x1)', 'Flixnet (x1)']",0667
+1030,782-806-6417,Urban Outfitters Loft,['Oreoz (x1)'],0990
+1031,271-963-2123,Urban Outfitters Loft,['Dovee (x1)'],0224
+1032,915-320-3214,Urban Outfitters Loft,['Colgatex (x1)'],0927
+1033,953-386-1321,PetPals Mart,"['Coca-Splash (x1)', 'Popsi (x2)', 'Colgatex (x1)']",0701
+1034,731-730-2543,Urban Outfitters Loft,['Colgatex (x1)'],0136
+1035,544-944-1609,PetPals Mart,['Colgatex (x1)'],0528
+1036,891-887-3513,PetPals Mart,['RedCow (x1)'],0202
+1037,478-814-3941,Trader Tales,"['Dovee (x1)', 'Colgatex (x3)']",0799
+1038,742-395-8995,Urban Outfitters Loft,"['Flixnet (x3)', 'Popsi (x1)', 'GatorBoost (x1)']",0035
+1039,849-570-8792,PetPals Mart,"['Dovee (x1)', 'Oreoz (x2)', 'Colgatex (x1)']",0862
+1040,220-102-3684,BestChoice Buy,['Krafty Cheddar (x2)'],0171
+1041,805-146-4773,Urban Outfitters Loft,"['GatorBoost (x2)', 'Colgatex (x1)']",0146
+1042,159-573-6793,Urban Outfitters Loft,"['Dovee (x1)', 'Oreoz (x1)']",0540
+1043,549-750-2047,Urban Outfitters Loft,['KittyKat (x1)'],0374
+1044,326-267-7811,Urban Outfitters Loft,"['KittyKat (x1)', 'Dovee (x3)']",0692
+1045,247-523-1403,PetPals Mart,['Oreoz (x2)'],0086
+1046,950-639-9777,PetPals Mart,"['Oreoz (x1)', 'Dovee (x1)']",0179
+1047,727-709-3351,BestChoice Buy,"['Colgatex (x2)', 'Popsi (x2)']",0023
+1048,883-481-7339,Urban Outfitters Loft,"['RedCow (x1)', 'Krafty Cheddar (x1)']",0686
+1049,936-522-1085,Urban Outfitters Loft,"['Popsi (x1)', 'RedCow (x2)', 'Dovee (x1)']",0308
+1050,424-390-3432,PetPals Mart,"['Krafty Cheddar (x1)', 'Dovee (x2)']",0126
+1051,336-283-3896,Trader Tales,"['KittyKat (x1)', 'Flixnet (x1)']",0516
+1052,738-911-3567,Urban Outfitters Loft,"['Flixnet (x2)', 'RedCow (x1)']",0697
+1053,561-761-7547,Trader Tales,"['Oreoz (x1)', 'Colgatex (x1)']",0556
+1054,227-737-8739,SparkMart,['Flixnet (x1)'],0212
+1055,515-268-3667,PetPals Mart,['Dovee (x1)'],0345
+1056,392-468-4297,Trader Tales,"['Dovee (x3)', 'Krafty Cheddar (x1)']",0970
+1057,645-829-7495,SparkMart,"['Colgatex (x2)', 'Flixnet (x2)']",0169
+1058,520-550-1148,Urban Outfitters Loft,"['Krafty Cheddar (x1)', 'Popsi (x1)']",0624
+1059,516-779-4464,Trader Tales,['Dovee (x2)'],0217
+1060,558-608-9550,Trader Tales,['Dovee (x2)'],0370
+1061,752-347-2146,SparkMart,"['KittyKat (x2)', 'Flixnet (x1)']",0518
+1062,139-396-1336,PetPals Mart,"['Dovee (x3)', 'Popsi (x2)', 'Colgatex (x2)']",0027
+1063,553-407-1049,Urban Outfitters Loft,"['RedCow (x3)', 'KittyKat (x3)']",0667
+1064,811-806-5304,Trader Tales,['Flixnet (x1)'],0028
+1065,558-134-7531,Trader Tales,"['Flixnet (x1)', 'RedCow (x1)']",0158
+1066,402-586-5192,Urban Outfitters Loft,"['Flixnet (x2)', 'Dovee (x1)']",0124
+1067,878-870-9506,Trader Tales,"['Krafty Cheddar (x1)', 'Dovee (x2)']",0615
+1068,313-206-2033,Targeted Treasures,"['RedCow (x1)', 'Dovee (x2)']",0706
+1069,194-235-2353,Trader Tales,"['RedCow (x3)', 'Krafty Cheddar (x2)']",0223
+1070,111-862-3502,PetPals Mart,['RedCow (x2)'],0207
+1071,723-357-7363,Trader Tales,"['Oreoz (x1)', 'Dovee (x2)']",0935
+1072,124-533-2523,SparkMart,"['Colgatex (x3)', 'Dovee (x3)']",0182
+1073,583-114-3994,BestChoice Buy,['KittyKat (x3)'],0486
+1074,429-916-1662,PetPals Mart,['RedCow (x2)'],0017
+1075,946-447-2454,PetPals Mart,"['RedCow (x2)', 'KittyKat (x1)']",0184
+1076,254-627-7406,Urban Outfitters Loft,"['RedCow (x2)', 'Flixnet (x2)', 'Popsi (x1)']",0174
+1077,958-724-3846,PetPals Mart,"['Dovee (x1)', 'Flixnet (x1)', 'Popsi (x1)']",0211
+1078,743-908-5464,SparkMart,['Colgatex (x1)'],0085
+1079,549-515-6738,SparkMart,"['GatorBoost (x1)', 'Krafty Cheddar (x1)', 'Popsi (x3)']",0010
+1080,480-560-1876,Trader Tales,"['KittyKat (x2)', 'RedCow (x3)', 'Colgatex (x2)']",0671
+1081,390-911-6534,BestChoice Buy,"['Dovee (x3)', 'KittyKat (x3)', 'Popsi (x2)']",0259
+1082,782-806-6417,PetPals Mart,"['RedCow (x2)', 'Popsi (x1)']",0990
+1083,617-226-9486,PetPals Mart,"['Flixnet (x1)', 'Oreoz (x1)', 'KittyKat (x1)']",0043
+1084,530-539-9474,Urban Outfitters Loft,"['RedCow (x2)', 'KittyKat (x1)']",0258
+1085,507-766-7432,Urban Outfitters Loft,"['Dovee (x1)', 'GatorBoost (x2)']",0519
+1086,743-908-5464,PetPals Mart,['RedCow (x2)'],0085
+1087,573-696-6671,Trader Tales,"['Krafty Cheddar (x1)', 'Dovee (x2)', 'Popsi (x1)']",0048
+1088,173-881-1582,Trader Tales,['Popsi (x1)'],0702
+1089,228-202-6360,Urban Outfitters Loft,"['Popsi (x2)', 'Dovee (x1)']",0362
+1090,202-632-2346,Trader Tales,"['GatorBoost (x2)', 'Colgatex (x2)']",0064
+1091,742-395-8995,Trader Tales,['GatorBoost (x1)'],0035
+1092,137-491-6519,BestChoice Buy,['KittyKat (x1)'],0175
+1093,663-149-3581,Urban Outfitters Loft,"['Oreoz (x1)', 'Dovee (x2)', 'Popsi (x1)']",0116
+1094,237-295-4490,Trader Tales,"['Dovee (x2)', 'Oreoz (x3)']",0530
+1095,441-847-1955,BestChoice Buy,['Dovee (x2)'],0109
+1096,507-883-4629,Urban Outfitters Loft,['Flixnet (x1)'],0102
+1097,553-482-8315,BestChoice Buy,"['Dovee (x2)', 'RedCow (x2)']",0326
+1098,145-501-4975,SparkMart,"['Oreoz (x1)', 'GatorBoost (x1)']",0639
+1099,344-278-2013,Urban Outfitters Loft,['Oreoz (x1)'],0568
+1100,531-380-1711,PetPals Mart,"['KittyKat (x1)', 'Flixnet (x1)']",0307
+1101,551-867-4367,Urban Outfitters Loft,"['GatorBoost (x1)', 'KittyKat (x1)', 'Dovee (x2)']",0653
+1102,245-506-5389,PetPals Mart,['GatorBoost (x1)'],0140
+1103,323-234-9528,Urban Outfitters Loft,"['Popsi (x1)', 'Krafty Cheddar (x1)', 'KittyKat (x1)']",0819
+1104,795-682-8733,Urban Outfitters Loft,"['RedCow (x2)', 'KittyKat (x2)', 'Dovee (x3)']",0436
+1105,805-146-4773,BestChoice Buy,"['Oreoz (x1)', 'Popsi (x1)', 'Krafty Cheddar (x1)']",0146
+1106,531-709-2553,Trader Tales,"['Oreoz (x2)', 'Dovee (x1)', 'Colgatex (x1)']",0877
+1107,866-155-1011,PetPals Mart,"['Popsi (x2)', 'Popsi (x1)']",0150
+1108,652-272-9539,Urban Outfitters Loft,"['RedCow (x2)', 'Dovee (x1)', 'Popsi (x1)']",0002
+1109,368-154-2650,Urban Outfitters Loft,['RedCow (x3)'],0343
+1110,504-112-5228,Urban Outfitters Loft,['KittyKat (x1)'],0908
+1111,481-405-7265,Trader Tales,"['Colgatex (x1)', 'Flixnet (x1)', 'Coca-Splash (x1)']",0235
+1112,500-251-7080,Trader Tales,['Dovee (x1)'],0938
+1113,964-448-9785,Urban Outfitters Loft,['KittyKat (x2)'],0838
+1114,705-890-7715,PetPals Mart,"['Popsi (x2)', 'Flixnet (x1)']",0584
+1115,791-853-6464,PetPals Mart,['Dovee (x1)'],0626
+1116,796-816-9963,Urban Outfitters Loft,"['Flixnet (x1)', 'Dovee (x1)']",0733
+1117,629-807-5687,PetPals Mart,"['Dovee (x1)', 'Oreoz (x2)']",0081
+1118,107-156-5064,PetPals Mart,['Dovee (x2)'],0283
+1119,505-476-1251,PetPals Mart,"['Krafty Cheddar (x1)', 'Colgatex (x2)', 'Popsi (x2)']",0430
+1120,728-796-4352,BestChoice Buy,"['Flixnet (x3)', 'KittyKat (x1)']",0197
+1121,271-604-3446,Urban Outfitters Loft,"['KittyKat (x3)', 'GatorBoost (x1)']",0234
+1122,782-806-6417,PetPals Mart,"['Dovee (x1)', 'Colgatex (x1)', 'Oreoz (x2)']",0990
+1123,312-891-9587,Urban Outfitters Loft,['Popsi (x1)'],0251
+1124,247-523-1403,SparkMart,"['Colgatex (x1)', 'Popsi (x2)', 'RedCow (x2)']",0086
+1125,626-458-8110,Urban Outfitters Loft,"['Oreoz (x2)', 'RedCow (x1)', 'Flixnet (x3)']",0693
+1126,724-444-3001,Urban Outfitters Loft,"['Flixnet (x1)', 'Popsi (x2)']",0746
+1127,598-173-8153,Trader Tales,"['Dovee (x1)', 'Colgatex (x2)', 'Popsi (x1)']",0705
+1128,852-236-4050,Urban Outfitters Loft,['Dovee (x1)'],0373
+1129,196-551-2162,SparkMart,"['RedCow (x1)', 'Krafty Cheddar (x2)']",0445
+1130,530-539-9474,BestChoice Buy,"['KittyKat (x2)', 'Colgatex (x3)', 'Krafty Cheddar (x1)']",0258
+1131,778-172-1502,Trader Tales,"['RedCow (x2)', 'Popsi (x1)']",0855
+1132,545-458-1679,Trader Tales,"['Krafty Cheddar (x2)', 'GatorBoost (x2)']",0063
+1133,699-966-4749,BestChoice Buy,['Dovee (x1)'],0069
+1134,919-925-5280,BestChoice Buy,['RedCow (x2)'],0868
+1135,148-739-3707,PetPals Mart,"['Flixnet (x2)', 'GatorBoost (x1)']",0332
+1136,270-914-6681,PetPals Mart,"['Krafty Cheddar (x2)', 'Dovee (x1)', 'Colgatex (x1)']",0416
+1137,264-319-7312,Urban Outfitters Loft,"['Dovee (x1)', 'Colgatex (x1)']",0289
+1138,659-190-9378,Trader Tales,"['Flixnet (x2)', 'RedCow (x1)', 'KittyKat (x1)']",0015
+1139,582-574-4299,PetPals Mart,"['Dovee (x3)', 'Flixnet (x1)', 'Colgatex (x2)']",0554
+1140,821-675-4190,SparkMart,"['Dovee (x1)', 'Oreoz (x1)']",0377
+1141,313-206-2033,BestChoice Buy,"['RedCow (x1)', 'KittyKat (x1)']",0706
+1142,547-388-2503,Trader Tales,['Colgatex (x3)'],0210
+1143,489-241-7631,PetPals Mart,['RedCow (x1)'],0007
+1144,312-891-9587,Trader Tales,['Dovee (x3)'],0251
+1145,416-776-3422,Urban Outfitters Loft,"['KittyKat (x1)', 'GatorBoost (x1)', 'Dovee (x2)']",0577
+1146,627-954-8991,Targeted Treasures,"['Dovee (x1)', 'Popsi (x2)']",0165
+1147,934-954-3387,Urban Outfitters Loft,"['Flixnet (x2)', 'KittyKat (x1)', 'Colgatex (x1)']",0441
+1148,778-566-2709,Trader Tales,"['Colgatex (x1)', 'Krafty Cheddar (x1)']",0957
+1149,220-296-3772,PetPals Mart,['Dovee (x1)'],0195

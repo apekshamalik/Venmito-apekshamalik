@@ -7,5 +7,10 @@ import matplotlib.pyplot as plt
 
 
 # S treamlit app
-st.title('Apex streamlit')
+st.set_page_config(page_title="Main Dashboard", layout="wide")
+
+st.title("venmito-apekshamalik")
+st.write("Use the sidebar to navigate between different pages.")
+
+st.sidebar.success("Select a page above.")
          

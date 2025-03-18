@@ -9,7 +9,7 @@ st.title("Funds Transfer Analysis")
 # Load dataset (Make sure file path is correct)
 @st.cache_data
 def load_data():
-    return pd.read_csv("/Users/alipuccio/Desktop/apex/Venmito-apekshamalik/output_data/transfers_(linked).csv")  # Ensure you're using the right file
+    return pd.read_csv("output_data/transfers_(linked).csv")  # Ensure you're using the right file
 
 transfers_df = load_data()
 

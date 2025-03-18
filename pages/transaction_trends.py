@@ -10,7 +10,7 @@ st.title("Store Transactions & Item Sales Analysis")
 # Load dataset (Ensure file path is correct)
 @st.cache_data
 def load_data():
-    return pd.read_csv("/Users/alipuccio/Desktop/apex/Venmito-apekshamalik/output_data/transactions_(linked).csv")
+    return pd.read_csv("output_data/transactions_(linked).csv")
 
 transactions_df = load_data()
 

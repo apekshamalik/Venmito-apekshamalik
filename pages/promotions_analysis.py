@@ -24,7 +24,7 @@ st.title("Promotion Analysis Dashboard")
 # Load dataset (Ensure correct file path)
 @st.cache_data
 def load_data():
-    return pd.read_csv("/Users/alipuccio/Desktop/apex/Venmito-apekshamalik/output_data/promotions_(linked).csv")
+    return pd.read_csv("output_data/promotions_(linked).csv")
 
 promotions_df = load_data()
 
